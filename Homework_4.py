@@ -79,3 +79,4 @@
 # del school['9м']
 # total = sum(school.values())
 # print('Всего учащихся 9-х классов:', total)
+print ('накосячл с brachами')
